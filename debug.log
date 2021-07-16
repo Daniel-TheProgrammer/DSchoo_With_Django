@@ -1,0 +1,266 @@
+INFO 2021-07-14 20:49:41,123 Watching for file changes with StatReloader
+INFO 2021-07-14 20:50:49,142 "GET / HTTP/1.1" 302 0
+INFO 2021-07-14 20:50:49,148 "GET / HTTP/1.1" 302 0
+INFO 2021-07-14 20:50:49,263 "GET / HTTP/1.1" 302 0
+INFO 2021-07-14 20:50:49,497 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2021-07-14 20:50:49,516 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2021-07-14 20:50:49,532 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2021-07-14 20:50:49,546 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58578
+INFO 2021-07-14 20:50:49,564 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2021-07-14 20:50:49,566 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19724
+INFO 2021-07-14 20:50:49,633 "GET /static/dist/css/login-page.css HTTP/1.1" 200 8610
+INFO 2021-07-14 20:50:49,642 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686707
+INFO 2021-07-14 20:50:49,659 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13632
+INFO 2021-07-14 20:50:49,666 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88145
+INFO 2021-07-14 20:50:49,700 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80698
+INFO 2021-07-14 20:50:50,218 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42383
+INFO 2021-07-14 20:50:50,220 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5251
+INFO 2021-07-14 20:50:50,241 "GET /static/dist/img/login.png HTTP/1.1" 200 144918
+INFO 2021-07-14 20:50:50,241 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 57530
+INFO 2021-07-14 20:50:50,242 "GET /static/dist/js/demo.js HTTP/1.1" 200 12616
+INFO 2021-07-14 20:50:50,447 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2021-07-14 20:50:50,698 Not Found: /favicon.ico
+WARNING 2021-07-14 20:50:50,699 "GET /favicon.ico HTTP/1.1" 404 6202
+WARNING 2021-07-14 20:50:50,717 Not Found: /favicon.ico
+WARNING 2021-07-14 20:50:50,718 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2021-07-14 20:51:50,314 "POST /accounts/login/ HTTP/1.1" 200 4106
+INFO 2021-07-14 20:51:50,349 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,356 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,368 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,372 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,373 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,389 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,389 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,391 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,391 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,392 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,398 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,399 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,399 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:51:50,450 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:07,305 "POST /accounts/login/ HTTP/1.1" 200 4106
+INFO 2021-07-14 20:52:42,233 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2021-07-14 20:52:42,345 "GET / HTTP/1.1" 200 9290
+INFO 2021-07-14 20:52:42,379 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:42,386 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25780
+INFO 2021-07-14 20:52:42,407 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:42,409 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:42,412 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:42,419 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:42,421 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:42,422 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:42,426 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:42,428 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042446
+INFO 2021-07-14 20:52:42,433 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:42,437 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:42,438 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:42,535 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2021-07-14 20:52:43,189 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2021-07-14 20:52:52,607 "GET /student/list HTTP/1.1" 200 9946
+INFO 2021-07-14 20:52:56,544 "GET /student/create/ HTTP/1.1" 200 13612
+INFO 2021-07-14 20:53:05,089 "GET /staff/list/ HTTP/1.1" 200 9687
+INFO 2021-07-14 20:53:07,922 "GET /staff/create/ HTTP/1.1" 200 12600
+INFO 2021-07-14 20:53:13,277 "GET /result/create/ HTTP/1.1" 200 10386
+INFO 2021-07-14 20:53:18,544 "GET /result/create/ HTTP/1.1" 200 10386
+INFO 2021-07-14 20:53:21,233 "GET /result/edit-results/ HTTP/1.1" 200 10104
+INFO 2021-07-14 20:53:21,302 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:21,315 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:21,325 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:21,325 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:21,325 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:21,326 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:21,326 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:21,328 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:21,336 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:21,341 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:21,344 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:21,347 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:21,348 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:53:23,344 "GET /result/view/all HTTP/1.1" 200 8834
+INFO 2021-07-14 20:53:26,388 "GET /student/list HTTP/1.1" 200 9946
+INFO 2021-07-14 20:53:32,699 "GET /student/create/ HTTP/1.1" 200 13612
+INFO 2021-07-14 20:53:49,099 "GET /site-config HTTP/1.1" 200 10875
+INFO 2021-07-14 20:54:26,155 "GET /student/list HTTP/1.1" 200 9946
+INFO 2021-07-14 20:54:26,191 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:26,203 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:26,204 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:26,205 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:26,205 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:26,224 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:26,224 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:26,224 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:26,224 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:26,225 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:26,225 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:26,229 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:26,231 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:54:35,677 "GET /student/create/ HTTP/1.1" 200 13612
+INFO 2021-07-14 20:54:43,488 "GET /staff/list/ HTTP/1.1" 200 9687
+INFO 2021-07-14 20:54:56,134 "GET /staff/create/ HTTP/1.1" 200 12600
+INFO 2021-07-14 20:55:10,855 "GET /finance/list/ HTTP/1.1" 200 9925
+INFO 2021-07-14 20:55:21,522 "GET /result/view/all HTTP/1.1" 200 8834
+INFO 2021-07-14 20:55:21,555 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:21,556 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:21,558 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:21,572 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:21,578 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:21,580 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:21,583 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:21,584 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:21,585 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:21,586 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:21,591 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:21,594 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:21,595 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:55:30,166 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2021-07-14 20:56:11,299 "GET /site-config HTTP/1.1" 200 10875
+INFO 2021-07-14 20:56:48,577 "GET /result/create/ HTTP/1.1" 200 10386
+INFO 2021-07-14 20:56:48,611 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:56:48,622 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:56:48,628 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:56:48,628 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:56:48,629 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2021-07-14 20:56:48,647 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:56:48,648 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:56:48,649 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:56:48,649 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:56:48,650 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:56:48,655 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:56:48,657 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2021-07-14 20:56:48,659 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2021-07-15 10:50:26,784 Watching for file changes with StatReloader
+INFO 2021-07-15 10:51:26,601 "GET / HTTP/1.1" 302 0
+INFO 2021-07-15 10:51:26,612 "GET / HTTP/1.1" 302 0
+INFO 2021-07-15 10:51:26,619 "GET / HTTP/1.1" 302 0
+INFO 2021-07-15 10:51:27,134 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2021-07-15 10:51:27,145 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2021-07-15 10:51:27,167 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2021-07-15 10:51:29,150 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:29,150 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:29,194 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:29,295 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:29,581 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:29,871 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:29,904 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:30,160 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:30,428 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:30,501 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:30,506 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:30,600 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:30,680 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:31,288 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+WARNING 2021-07-15 10:51:32,300 Not Found: /favicon.ico
+WARNING 2021-07-15 10:51:32,300 "GET /favicon.ico HTTP/1.1" 404 6202
+WARNING 2021-07-15 10:51:32,317 Not Found: /favicon.ico
+WARNING 2021-07-15 10:51:32,318 "GET /favicon.ico HTTP/1.1" 404 6202
+WARNING 2021-07-15 10:51:32,332 Not Found: /favicon.ico
+WARNING 2021-07-15 10:51:32,332 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2021-07-15 10:51:57,128 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2021-07-15 10:51:57,272 "GET / HTTP/1.1" 200 9290
+INFO 2021-07-15 10:51:57,349 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:57,374 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2021-07-15 10:51:57,587 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2021-07-15 10:52:02,550 "GET /student/list HTTP/1.1" 200 9946
+INFO 2021-07-15 10:52:07,917 "GET /student/create/ HTTP/1.1" 200 13612
+INFO 2021-07-15 10:52:36,074 "GET /site-config HTTP/1.1" 200 10875
+INFO 2021-07-15 10:52:40,663 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2021-07-15 10:52:45,830 "GET /student/list HTTP/1.1" 200 9946
+INFO 2021-07-15 10:52:48,552 "GET /student/list HTTP/1.1" 200 9946
+INFO 2021-07-15 10:52:51,319 "GET /result/create/ HTTP/1.1" 200 10386
+INFO 2021-07-15 10:53:05,875 "GET /student/list HTTP/1.1" 200 9946
+INFO 2021-07-15 15:52:09,864 Watching for file changes with StatReloader
+INFO 2021-07-15 15:53:11,381 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 15:53:11,831 Watching for file changes with StatReloader
+INFO 2021-07-15 15:53:13,134 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 15:53:13,513 Watching for file changes with StatReloader
+INFO 2021-07-15 15:53:18,851 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 15:53:19,356 Watching for file changes with StatReloader
+INFO 2021-07-15 15:53:20,682 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 15:53:21,072 Watching for file changes with StatReloader
+INFO 2021-07-15 15:53:23,516 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 15:53:23,848 Watching for file changes with StatReloader
+INFO 2021-07-15 15:53:28,037 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 15:53:28,396 Watching for file changes with StatReloader
+INFO 2021-07-15 15:53:30,585 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 15:53:30,926 Watching for file changes with StatReloader
+INFO 2021-07-15 15:53:35,138 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 15:53:35,484 Watching for file changes with StatReloader
+INFO 2021-07-15 15:53:50,800 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 15:53:51,180 Watching for file changes with StatReloader
+INFO 2021-07-15 15:53:53,356 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 15:53:53,708 Watching for file changes with StatReloader
+INFO 2021-07-15 15:53:54,871 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 15:53:55,240 Watching for file changes with StatReloader
+INFO 2021-07-15 15:54:25,685 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 15:54:26,081 Watching for file changes with StatReloader
+INFO 2021-07-15 16:04:47,892 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 16:04:48,301 Watching for file changes with StatReloader
+INFO 2021-07-15 16:04:52,491 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 16:04:52,917 Watching for file changes with StatReloader
+INFO 2021-07-15 16:06:49,833 "GET / HTTP/1.1" 302 0
+INFO 2021-07-15 16:06:49,844 "GET / HTTP/1.1" 302 0
+INFO 2021-07-15 16:06:50,265 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2021-07-15 16:06:50,277 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2021-07-15 16:06:53,132 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:53,314 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:53,459 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:53,548 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:53,890 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:53,891 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:53,992 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:54,221 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:54,302 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:54,326 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:54,388 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:54,432 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:54,476 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2021-07-15 16:06:54,874 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+WARNING 2021-07-15 16:06:55,849 Not Found: /favicon.ico
+WARNING 2021-07-15 16:06:55,850 "GET /favicon.ico HTTP/1.1" 404 6202
+WARNING 2021-07-15 16:06:55,865 Not Found: /favicon.ico
+WARNING 2021-07-15 16:06:55,866 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2021-07-15 16:07:15,956 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:07:16,413 Watching for file changes with StatReloader
+INFO 2021-07-15 16:07:18,728 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:07:19,180 Watching for file changes with StatReloader
+INFO 2021-07-15 16:07:24,545 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:07:24,992 Watching for file changes with StatReloader
+INFO 2021-07-15 16:07:35,408 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:07:35,841 Watching for file changes with StatReloader
+INFO 2021-07-15 16:07:44,264 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:07:44,696 Watching for file changes with StatReloader
+INFO 2021-07-15 16:07:51,059 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:07:51,499 Watching for file changes with StatReloader
+INFO 2021-07-15 16:08:06,990 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:08:07,419 Watching for file changes with StatReloader
+INFO 2021-07-15 16:08:15,797 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:08:16,251 Watching for file changes with StatReloader
+INFO 2021-07-15 16:08:26,704 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:08:27,146 Watching for file changes with StatReloader
+INFO 2021-07-15 16:08:30,509 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:08:30,929 Watching for file changes with StatReloader
+INFO 2021-07-15 16:08:37,297 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:08:37,779 Watching for file changes with StatReloader
+INFO 2021-07-15 16:08:42,130 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:08:42,580 Watching for file changes with StatReloader
+INFO 2021-07-15 16:09:00,069 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:09:00,538 Watching for file changes with StatReloader
+INFO 2021-07-15 16:09:05,888 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:09:06,348 Watching for file changes with StatReloader
+INFO 2021-07-15 16:09:22,898 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
+INFO 2021-07-15 16:09:23,280 Watching for file changes with StatReloader
+INFO 2021-07-15 16:09:34,734 /home/theprogrammer/Schoo wit django/Django-School-Management-System/apps/corecode/models.py changed, reloading.
+INFO 2021-07-15 16:09:35,131 Watching for file changes with StatReloader
+INFO 2021-07-15 16:11:00,754 /home/theprogrammer/Schoo wit django/Django-School-Management-System/templates/index.html changed, reloading.
+INFO 2021-07-15 16:11:01,116 Watching for file changes with StatReloader
+INFO 2021-07-15 16:11:03,465 /home/theprogrammer/Schoo wit django/Django-School-Management-System/templates/index.html changed, reloading.
+INFO 2021-07-15 16:11:03,830 Watching for file changes with StatReloader
+INFO 2021-07-15 16:11:07,147 /home/theprogrammer/Schoo wit django/Django-School-Management-System/templates/index.html changed, reloading.
+INFO 2021-07-15 16:11:07,555 Watching for file changes with StatReloader
+INFO 2021-07-15 16:11:08,839 /home/theprogrammer/Schoo wit django/Django-School-Management-System/templates/index.html changed, reloading.
+INFO 2021-07-15 16:11:09,224 Watching for file changes with StatReloader
+INFO 2021-07-15 16:11:13,609 /home/theprogrammer/Schoo wit django/Django-School-Management-System/templates/index.html changed, reloading.
+INFO 2021-07-15 16:11:13,985 Watching for file changes with StatReloader
+INFO 2021-07-15 16:11:17,317 /home/theprogrammer/Schoo wit django/Django-School-Management-System/templates/index.html changed, reloading.
+INFO 2021-07-15 16:11:17,677 Watching for file changes with StatReloader
+INFO 2021-07-15 16:13:22,887 /home/theprogrammer/Schoo wit django/Django-School-Management-System/manage.py changed, reloading.
