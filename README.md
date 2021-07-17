@@ -21,7 +21,7 @@ git clone https://github.com/Daniel-TheProgrammer/DSchoo_with_Django.git
 Then
 
 ```bash
-cd Django-School-Management-System
+cd DSchoo_with_Django
 ```
 Run
 
