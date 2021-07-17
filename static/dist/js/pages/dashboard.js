@@ -1,6 +1,6 @@
 /*
- * Author: Abdullah A Almsaeed
- * Date: 4 Jan 2014
+ * Author: Daniel TheProgrammer
+ * Date: 17 July 2021
  * Description:
  *      This is a demo file used only for the main dashboard (index.html)
  **/
